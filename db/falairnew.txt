@@ -1,0 +1,9136 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<!DOCTYPE html>
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+		
+		
+	
+	
+		
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html class="ltr" dir="ltr" lang="it-IT">
+
+	<head>
+		<title>SUAP di MATERA - LISTA PRATICHE PRESENTATE - impresainungiorno.gov.it</title>
+		<script type="text/javascript" src="/suap-theme/js/DD_roundies_0.0.2a.js"></script>
+		<script type="text/javascript">
+			/*IE border-radius */
+			DD_roundies.addRule(".border","8px", true);
+			DD_roundies.addRule(".portlet","8px", true);
+			DD_roundies.addRule("#loghi","8px", true);
+			DD_roundies.addRule("#sitemap","8px", true);
+			DD_roundies.addRule("#sponsor","8px", true);
+			DD_roundies.addRule(".gray","8px", true);
+			DD_roundies.addRule(".yellow","8px", true);
+			DD_roundies.addRule(".pink","8px", true);
+			DD_roundies.addRule(".green","8px", true);
+		</script>
+		<!--script type="text/javascript">
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			
+			ga('create', 'UA-19129903-1', {
+			'siteSpeedSampleRate': 10
+			});
+			
+			ga('require', 'displayfeatures');
+			
+			ga('send', 'pageview');
+		</script-->
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+		<meta name="description" content="LISTA PRATICHE PRESENTATE del Comune di MATERA" lang="it-IT" />
+	
+
+	
+
+	
+		<meta name="keywords" content="matera,suap di matera,f052,lista pratiche presentate,lista pratiche presentate del comune di matera" lang="it-IT" />
+	
+
+
+
+<link href="https://www.impresainungiorno.gov.it/suap-theme/images/favicon.ico" rel="Shortcut Icon" />
+
+
+
+
+
+	<link href="https&#x3a;&#x2f;&#x2f;www&#x2e;impresainungiorno&#x2e;gov&#x2e;it&#x2f;web&#x2f;matera&#x2f;comune&#x2f;pratiche-presentate" rel="canonical" />
+
+	
+
+	
+
+		
+
+						<link href="https&#x3a;&#x2f;&#x2f;www&#x2e;impresainungiorno&#x2e;gov&#x2e;it&#x2f;de&#x2f;web&#x2f;matera&#x2f;comune&#x2f;pratiche-presentate" hreflang="de-DE" rel="alternate" />
+
+		
+
+						<link href="https&#x3a;&#x2f;&#x2f;www&#x2e;impresainungiorno&#x2e;gov&#x2e;it&#x2f;en&#x2f;web&#x2f;matera&#x2f;comune&#x2f;pratiche-presentate" hreflang="en-GB" rel="alternate" />
+
+		
+
+						<link href="https&#x3a;&#x2f;&#x2f;www&#x2e;impresainungiorno&#x2e;gov&#x2e;it&#x2f;fr&#x2f;web&#x2f;matera&#x2f;comune&#x2f;pratiche-presentate" hreflang="fr-FR" rel="alternate" />
+
+		
+
+	
+
+
+
+
+
+<link href="&#x2f;html&#x2f;css&#x2f;main&#x2e;css&#x3f;browserId&#x3d;other&#x26;themeId&#x3d;suap_WAR_suaptheme&#x26;minifierType&#x3d;css&#x26;languageId&#x3d;it_IT&#x26;b&#x3d;6110&#x26;t&#x3d;1379534842000" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+
+
+	
+
+				<link href="/link_pagina-portlet/css/main.css?browserId=other&amp;themeId=suap_WAR_suaptheme&amp;minifierType=css&amp;languageId=it_IT&amp;b=6110&amp;t=1466910229000" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="/customize_breadcrumb-portlet/css/main.css?browserId=other&amp;themeId=suap_WAR_suaptheme&amp;minifierType=css&amp;languageId=it_IT&amp;b=6110&amp;t=1466910224000" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="/servizi_attivi-portlet/pratiche_presentate/css/main.css?browserId=other&amp;themeId=suap_WAR_suaptheme&amp;minifierType=css&amp;languageId=it_IT&amp;b=6110&amp;t=1466910241000" rel="stylesheet" type="text/css" />
+
+	
+
+
+
+
+
+
+
+<script type="text/javascript">
+	// <![CDATA[
+		var Liferay = {
+			Browser: {
+				acceptsGzip: function() {
+					return true;
+				},
+				getMajorVersion: function() {
+					return 51.0;
+				},
+				getRevision: function() {
+					return "537.36";
+				},
+				getVersion: function() {
+					return "51.0.2704.103";
+				},
+				isAir: function() {
+					return false;
+				},
+				isChrome: function() {
+					return true;
+				},
+				isFirefox: function() {
+					return false;
+				},
+				isGecko: function() {
+					return true;
+				},
+				isIe: function() {
+					return false;
+				},
+				isIphone: function() {
+					return false;
+				},
+				isLinux: function() {
+					return false;
+				},
+				isMac: function() {
+					return true;
+				},
+				isMobile: function() {
+					return false;
+				},
+				isMozilla: function() {
+					return false;
+				},
+				isOpera: function() {
+					return false;
+				},
+				isRtf: function() {
+					return true;
+				},
+				isSafari: function() {
+					return true;
+				},
+				isSun: function() {
+					return false;
+				},
+				isWap: function() {
+					return false;
+				},
+				isWapXhtml: function() {
+					return false;
+				},
+				isWebKit: function() {
+					return true;
+				},
+				isWindows: function() {
+					return false;
+				},
+				isWml: function() {
+					return false;
+				}
+			},
+
+			Data: {
+				isCustomizationView: function() {
+					return false;
+				},
+
+				notices: [
+					null
+
+					
+
+					
+				]
+			},
+
+			ThemeDisplay: {
+				getCDNDynamicResourcesHost: function() {
+					return "";
+				},
+				getCDNHost: function() {
+					return "";
+				},
+				getCompanyId: function() {
+					return "10154";
+				},
+				getCompanyGroupId: function() {
+					return "10192";
+				},
+				getUserId: function() {
+					return "10158";
+				},
+
+				
+
+				getDoAsUserIdEncoded: function() {
+					return "";
+				},
+				getPlid: function() {
+					return "39035";
+				},
+
+				
+					getLayoutId: function() {
+						return "8";
+					},
+					getLayoutURL: function() {
+						return "/web/matera/comune/pratiche-presentate/t/F052";
+					},
+					isPrivateLayout: function() {
+						return "false";
+					},
+					getParentLayoutId: function() {
+						return "2";
+					},
+				
+
+				getScopeGroupId: function() {
+					return "39005";
+				},
+				getScopeGroupIdOrLiveGroupId: function() {
+					return "39005";
+				},
+				getParentGroupId: function() {
+					return "39005";
+				},
+				isImpersonated: function() {
+					return false;
+				},
+				isSignedIn: function() {
+					return false;
+				},
+				getDefaultLanguageId: function() {
+					return "it_IT";
+				},
+				getLanguageId: function() {
+					return "it_IT";
+				},
+				isAddSessionIdToURL: function() {
+					return false;
+				},
+				isFreeformLayout: function() {
+					return false;
+				},
+				isStateExclusive: function() {
+					return false;
+				},
+				isStateMaximized: function() {
+					return false;
+				},
+				isStatePopUp: function() {
+					return false;
+				},
+				getPathContext: function() {
+					return "";
+				},
+				getPathImage: function() {
+					return "/image";
+				},
+				getPathJavaScript: function() {
+					return "/html/js";
+				},
+				getPathMain: function() {
+					return "/c";
+				},
+				getPathThemeImages: function() {
+					return "https://www.impresainungiorno.gov.it/suap-theme/images";
+				},
+				getPathThemeRoot: function() {
+					return "/suap-theme/";
+				},
+				getURLControlPanel: function() {
+					return "/group/control_panel?doAsGroupId=39005&refererPlid=39035";
+				},
+				getURLHome: function() {
+					return "https://www.impresainungiorno.gov.it/web/guest";
+				},
+				getSessionId: function() {
+					return "9FD920E13317CD20AD4C36467E651198.enteday2";
+				},
+				getPortletSetupShowBordersDefault: function() {
+					return true;
+				}
+			},
+
+			PropsValues: {
+				NTLM_AUTH_ENABLED: false
+			}
+		};
+
+		var themeDisplay = Liferay.ThemeDisplay;
+
+		
+
+		Liferay.AUI = {
+			getBaseURL: function() {
+				return 'https://www.impresainungiorno.gov.it/html/js/aui/';
+			},
+			getCombine: function() {
+				return true;
+			},
+			getComboPath: function() {
+				return '/combo/?browserId=other&minifierType=&languageId=it_IT&b=6110&t=1424862511000&p=/html/js&';
+			},
+			getFilter: function() {
+				
+					
+						return {
+							replaceStr: function(match, fragment, string) {
+								return fragment + 'm=' + (match.split('/html/js')[1] || '');
+							},
+							searchExp: '(\\?|&)/([^&]+)'
+						};
+					
+					
+					
+				
+			},
+			getJavaScriptRootPath: function() {
+				return '/html/js';
+			},
+			getLangPath: function () {
+				return 'aui_lang.jsp?browserId=other&themeId=suap_WAR_suaptheme&colorSchemeId=01&minifierType=js&languageId=it_IT&b=6110&t=1424862511000';
+			},
+			getRootPath: function() {
+				return '/html/js/aui/';
+			}
+		};
+
+		window.YUI_config = {
+			base: Liferay.AUI.getBaseURL(),
+			comboBase: Liferay.AUI.getComboPath(),
+			fetchCSS: true,
+			filter: Liferay.AUI.getFilter(),
+			root: Liferay.AUI.getRootPath(),
+			useBrowserConsole: false
+		};
+
+		
+
+		Liferay.currentURL = '\x2fweb\x2fmatera\x2fcomune\x2fpratiche-presentate\x2ft\x2fF052';
+		Liferay.currentURLEncoded = '%2Fweb%2Fmatera%2Fcomune%2Fpratiche-presentate%2Ft%2FF052';
+	// ]]>
+</script>
+
+
+	
+		
+			
+				<script src="/html/js/barebone.jsp?browserId=other&amp;themeId=suap_WAR_suaptheme&amp;colorSchemeId=01&amp;minifierType=js&amp;minifierBundleId=javascript.barebone.files&amp;languageId=it_IT&amp;b=6110&amp;t=1424862511000" type="text/javascript"></script>
+			
+			
+		
+	
+	
+
+
+
+
+<script type="text/javascript">
+	// <![CDATA[
+		
+
+			
+
+			
+				Liferay.Portlet.list = ['1_WAR_kaleodesignerportlet','LinkPagina_WAR_link_paginaportlet_INSTANCE_wdw51TFDUYOJ','LinkPagina_WAR_link_paginaportlet_INSTANCE_eOEyeqd1oj2k','LinkPagina_WAR_link_paginaportlet_INSTANCE_TdbxHyz6vnGc','1_WAR_customize_breadcrumbportlet','3_WAR_servizi_attiviportlet','118_INSTANCE_iCH4odny0RUt','LinkPagina_WAR_link_paginaportlet_INSTANCE_DrYBtp7HeO4o','LinkPagina_WAR_link_paginaportlet_INSTANCE_obVUGRIb51KS'];
+			
+		
+
+		
+
+		
+	// ]]>
+</script>
+
+
+
+
+
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+
+		_gaq.push(['_setAccount', 'UA-19129903-1']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script');
+
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+			ga.setAttribute('async', 'true');
+
+			document.documentElement.firstChild.appendChild(ga);
+		})();
+	</script>
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+<link class="lfr-css-file" href="https&#x3a;&#x2f;&#x2f;www&#x2e;impresainungiorno&#x2e;gov&#x2e;it&#x2f;suap-theme&#x2f;css&#x2f;main&#x2e;css&#x3f;browserId&#x3d;other&#x26;themeId&#x3d;suap_WAR_suaptheme&#x26;minifierType&#x3d;css&#x26;languageId&#x3d;it_IT&#x26;b&#x3d;6110&#x26;t&#x3d;1424862511000" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+	/* <![CDATA[ */
+		
+	/* ]]> */
+</style>
+
+
+
+
+
+
+
+
+	<style type="text/css">
+
+		
+
+			
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_LinkPagina_WAR_link_paginaportlet_INSTANCE_wdw51TFDUYOJ_ {
+
+}
+
+
+
+
+				
+
+			
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_LinkPagina_WAR_link_paginaportlet_INSTANCE_eOEyeqd1oj2k_ {
+
+}
+
+#p_p_id_LinkPagina_WAR_link_paginaportlet_INSTANCE_eOEyeqd1oj2k_ {
+	background-image: url("/documents/10192/10710/naviga_banca_dati.gif/a9a846e7-a300-472a-b080-9f611d6047ee");
+	height: 135px;
+	background-repeat: no-repeat;
+	padding-top: 45px;
+	padding-left: 38px;
+}
+
+#p_p_id_LinkPagina_WAR_link_paginaportlet_INSTANCE_eOEyeqd1oj2k_ .titolo-portlet{
+	/*margin-top: 45px;*/
+	width: 100%;
+}
+
+
+
+#p_p_id_LinkPagina_WAR_link_paginaportlet_INSTANCE_eOEyeqd1oj2k_ .sottotitolo-portlet{
+	margin-top: 10px;
+}
+
+
+
+
+				
+
+			
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_LinkPagina_WAR_link_paginaportlet_INSTANCE_TdbxHyz6vnGc_ {
+
+}
+
+
+
+
+				
+
+			
+
+		
+
+			
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_3_WAR_servizi_attiviportlet_ {
+
+}
+
+
+
+
+				
+
+			
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_118_INSTANCE_iCH4odny0RUt_ {
+
+}
+
+#p_p_id_118_INSTANCE_iCH4odny0RUt_ .LinkPagina-portlet{
+	height: 160px;
+}
+
+
+
+
+				
+
+			
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_LinkPagina_WAR_link_paginaportlet_INSTANCE_DrYBtp7HeO4o_ {
+
+}
+
+
+
+
+				
+
+			
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_LinkPagina_WAR_link_paginaportlet_INSTANCE_obVUGRIb51KS_ {
+
+}
+
+
+
+
+				
+
+			
+
+		
+
+	</style>
+
+
+
+	</head>
+	
+	<body class=" yui3-skin-sam controls-visible signed-out public-page organization-site">
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+			<div id="ultrawrapper">
+			<div id="wrapper">
+		
+				<header id="banner" role="banner">
+					<div id="heading">
+						<h1 class="site-title">
+							<a class="logo custom-logo" href="/home" title="Vai a PROVINCIA DI MATERA">
+								<img alt="PROVINCIA DI MATERA" height="29" src="/image/company_logo?img_id=11140&amp;t=1466910241811" width="274" />
+							</a>
+	
+						</h1>
+						<h2 id="community-slogan">
+							Una pubblica amministrazione più vicina alle imprese è un valore per tutti
+						</h2>
+					</div>
+			
+				    <div id="sign-in">
+					    						  <a href="/c/portal/login?p_l_id=39035" rel="nofollow">Entra</a>
+					    	                    <div class="loghi">
+						</div>
+					</div>
+			
+					<nav class="site-breadcrumbs" id="breadcrumbs">
+						<h1>
+							<span>Barre di Navigazione</span>
+						</h1>
+			
+						
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="breadcrumbs breadcrumbs-horizontal lfr-component">
+	<li class="first"><span><a href="https://www.impresainungiorno.gov.it">impresainungiorno.gov.it</a></span></li><li><span><a href="/web/matera">PROVINCIA DI MATERA</a></span></li><li><span><a href="/web/matera/comune/t/F052">MATERA</a></span></li><li class="last"><span><a href="/web/matera/comune/pratiche-presentate/t/F052">LISTA PRATICHE PRESENTATE</a></span></li>
+</ul>
+
+					</nav>
+				</header>
+	
+				<div id="content">
+			
+	
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div id="p_p_id_103_" class="portlet-boundary portlet-boundary_103_  portlet-static portlet-static-end  " >
+		<span id="p_103"></span>
+
+		<div class="portlet-body">
+
+
+
+	
+	
+	
+	
+
+		
+
+			
+				
+				
+					
+				
+			
+
+		
+
+	
+
+
+
+
+
+			
+		</div>
+	</div>
+
+
+
+
+
+	
+
+<div class="column_2_img" id="main-content" role="main">
+	<div class="portlet-layout">
+		<div class="aui-w30 portlet-column portlet-column-first" id="column-1">
+										<div class="cciaa-image-container">
+					<img src="/documents/10192/16365/MT.jpg" alt="Camera di Commercio" title="Camera di Commercio" width="270px"/>
+				</div>
+						<div class="portlet-dropzone portlet-column-content portlet-column-content-first" id="layout-column_column-1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div id="p_p_id_LinkPagina_WAR_link_paginaportlet_INSTANCE_wdw51TFDUYOJ_" class="portlet-boundary portlet-boundary_LinkPagina_WAR_link_paginaportlet_  portlet-static portlet-static-end portlet-borderless LinkPagina-portlet border" >
+		<span id="p_LinkPagina_WAR_link_paginaportlet_INSTANCE_wdw51TFDUYOJ"></span>
+
+		<div class="portlet-body">
+
+
+
+	
+	
+	
+	
+
+		
+
+			
+				
+					
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				<div class="portlet-borderless-container" style="">
+					
+
+					
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class="banner-portlet title-bottom"
+	
+ 	>
+
+	<a href="http://impresainungiornosv.intra.infocamere.it/route/suap?codComune=F052" target="_self" title='Vai a ACCEDI ALLO SPORTELLO TELEMATICO SUAP'>
+
+
+	
+
+
+		<img src="/documents/10192/10710/soluzioneComune.gif" alt='Vai a ACCEDI ALLO SPORTELLO TELEMATICO SUAP'/>
+		<br/>
+
+	
+		<span class="titolo-portlet" style="color:#8A8B8C;left:0px;">ACCEDI ALLO SPORTELLO TELEMATICO SUAP</span>
+
+	</a>
+	
+</p>
+<p class="description">Verifica di aver inserito la CNS e acedi allo sportello telematico per la compilazione assistita e invio della pratica suap</p>
+
+
+
+
+	
+	
+
+					
+				
+			
+			
+		
+	
+	
+
+
+
+	</div>
+
+				</div>
+
+				
+			
+		
+	
+
+				
+				
+			
+
+		
+
+	
+
+
+
+
+
+			
+		</div>
+	</div>
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div id="p_p_id_LinkPagina_WAR_link_paginaportlet_INSTANCE_eOEyeqd1oj2k_" class="portlet-boundary portlet-boundary_LinkPagina_WAR_link_paginaportlet_  portlet-static portlet-static-end portlet-borderless LinkPagina-portlet " >
+		<span id="p_LinkPagina_WAR_link_paginaportlet_INSTANCE_eOEyeqd1oj2k"></span>
+
+		<div class="portlet-body">
+
+
+
+	
+	
+	
+	
+
+		
+
+			
+				
+					
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				<div class="portlet-borderless-container" style="">
+					
+
+					
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class="banner-portlet title-inside"
+	
+ 		style="height:60px"
+ 	
+ 	>
+
+	<a href="https://www.impresainungiorno.gov.it/web/matera/comune/pratiche-presentate/../navigazione/t/F052" target="_self" title='Vai a Naviga la banca dati'>
+
+
+	
+
+
+	
+		<span class="titolo-portlet" style="color:#006699;left:0px;width: 60%;">Naviga la banca dati</span>
+
+		<span class="sottotitolo-portlet" style="color:#006699;left:0px;">Consulta i procedimenti</span>
+		
+
+
+	</a>
+	
+</p>
+<p class="description">L'elenco è disponibile in consultazione libera.</p>
+
+
+
+
+	
+	
+
+					
+				
+			
+			
+		
+	
+	
+
+
+
+	</div>
+
+				</div>
+
+				
+			
+		
+	
+
+				
+				
+			
+
+		
+
+	
+
+
+
+
+
+			
+		</div>
+	</div>
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div id="p_p_id_LinkPagina_WAR_link_paginaportlet_INSTANCE_TdbxHyz6vnGc_" class="portlet-boundary portlet-boundary_LinkPagina_WAR_link_paginaportlet_  portlet-static portlet-static-end portlet-borderless LinkPagina-portlet border" >
+		<span id="p_LinkPagina_WAR_link_paginaportlet_INSTANCE_TdbxHyz6vnGc"></span>
+
+		<div class="portlet-body">
+
+
+
+	
+	
+	
+	
+
+		
+
+			
+				
+					
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				<div class="portlet-borderless-container" style="">
+					
+
+					
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class="banner-portlet title-bottom"
+	
+ 	>
+
+	
+
+
+		<img src="/documents/10192/10710/call-center.gif/2334096d-5133-4c00-a6d6-b0793a9abd70?t=1454487331000" alt='Vai a '/>
+		<br/>
+	
+</p>
+<p class="description">Gli operatori rispondono dal lunedì al venerdì dalle 8:30 alle 18:30.
+<br>
+<!-- Dal lunedì al venerdì nelle fasce 8:00-8:30 e 18:30-20:00, e il sabato dalle 9:00 alle 13:00, gli utenti possono lasciare un recapito telefonico per essere ricontattati a servizio di nuovo operativo.
+<br><br>
+Il servizio di assistenza telefonica è a pagamento. 
+<br>Il costo della chiamata da rete fissa è di 14,5 centesimi di Euro al minuto dal lunedì al venerdì dalle 8:00 alle 18:30 e il sabato dalle 8:00 alle 13:00; e di 5,7 centesimi di Euro al minuto nelle altre fasce orarie, la domenica e i festivi. 
+<br>Per le chiamate da cellulare, il costo dipende dall'operatore d'appartenenza e comunque non può essere superiore a 42,7 centesimi al minuto, con addebito alla risposta di 15,8 centesimi di Euro. 
+<br>I costi sono IVA inclusa. --></p>
+
+
+
+
+	
+	
+
+					
+				
+			
+			
+		
+	
+	
+
+
+
+	</div>
+
+				</div>
+
+				
+			
+		
+	
+
+				
+				
+			
+
+		
+
+	
+
+
+
+
+
+			
+		</div>
+	</div>
+
+
+
+
+
+	
+	
+</div>
+		</div>
+		<div class="aui-w70 portlet-column portlet-column-last" id="column-2">
+			<div class="portlet-dropzone portlet-column-content portlet-column-content-last" id="layout-column_column-2">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div id="p_p_id_3_WAR_servizi_attiviportlet_" class="portlet-boundary portlet-boundary_3_WAR_servizi_attiviportlet_  portlet-static portlet-static-end portlet-borderless pratiche_presentate-portlet " >
+		<span id="p_3_WAR_servizi_attiviportlet"></span>
+
+		<div class="portlet-body">
+
+
+
+	
+	
+	
+	
+
+		
+
+			
+				
+					
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				<div class="portlet-borderless-container" style="">
+					
+
+					
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+			
+			
+				
+				
+				
+				
+				
+			
+			
+			
+			
+				
+				
+				
+				
+				
+			
+			
+			
+			
+				
+				
+				
+				
+				
+			
+			
+			
+			
+				
+				
+				
+				
+				
+			
+			
+			
+			
+				
+				
+				
+				
+				
+			
+			
+			
+			
+				
+				
+				
+				
+				
+			
+			
+			
+			
+				
+				
+				
+				
+				
+			
+			
+			
+			
+				
+				
+				
+				
+				
+			
+			
+			
+			
+				
+				
+				
+				
+				
+			
+			
+			
+			
+				
+				
+				
+				
+				
+			
+			
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="taglib-header ">
+	
+
+	<h1 class="header-title">
+		<span>
+			
+				
+					Pratiche presentate al Comune di MATERA
+				
+				
+			
+		</span>
+	</h1>
+</div>
+	<div class="pubblicita">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="lfr-search-container ">
+	
+
+	<div class="results-grid" id="ovwwSearchContainer">
+		<table class="taglib-search-iterator">
+
+		
+			<tr class="portlet-section-header results-header">
+
+			
+
+				<th class="col-1 first" id="azfb_col-1"
+
+					
+
+					
+				>
+
+					
+
+						
+
+						
+							
+							
+								Codice della pratica
+							
+						
+
+					
+				</th>
+
+			
+
+				<th class="col-2 " id="azfb_col-2"
+
+					
+
+					
+				>
+
+					
+
+						
+
+						
+							
+							
+								Ragione sociale
+							
+						
+
+					
+				</th>
+
+			
+
+				<th class="col-3 last" id="azfb_col-3"
+
+					
+
+					
+				>
+
+					
+
+						
+
+						
+							
+							
+								Protocollo
+							
+						
+
+					
+				</th>
+
+			
+
+			</tr>
+			<tr class="lfr-template portlet-section-body results-row">
+
+				
+
+					<td></td>
+
+				
+
+					<td></td>
+
+				
+
+					<td></td>
+
+				
+
+			</tr>
+		
+
+		
+
+		
+
+			<tr class="portlet-section-body results-row" >
+
+			
+
+				<td class="align-left col-1  first valign-middle" colspan="1"
+					
+						headers="azfb_col-1"
+					
+				>
+
+					<a href='https://www.impresainungiorno.gov.it/web/matera/comune/pratiche-presentate/t/F052?p_p_id=3_WAR_servizi_attiviportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_3_WAR_servizi_attiviportlet_jspPage=%2Fpratiche_presentate%2Fdettaglio_pratica.jsp&_3_WAR_servizi_attiviportlet_codicePratica=CNCVCN79C31F052I-17052016-1431&_3_WAR_servizi_attiviportlet_idSportello=4935&_3_WAR_servizi_attiviportlet_nomeSportello=MATERA&_3_WAR_servizi_attiviportlet_backurl=https%3A%2F%2Fwww.impresainungiorno.gov.it%2Fweb%2Fmatera%2Fcomune%2Fpratiche-presentate%2Ft%2FF052' title='CNCVCN79C31F052I-17052016-1431'><b>CNCVCN79C31F052I-1705...</b> </a>
+
+				</td>
+
+			
+
+				<td class="align-left col-2  valign-middle" colspan="1"
+					
+						headers="azfb_col-2"
+					
+				>
+
+					CIANCIA VINCENZO
+
+				</td>
+
+			
+
+				<td class="align-left col-3  last valign-middle" colspan="1"
+					
+						headers="azfb_col-3"
+					
+				>
+
+					REP_PROV_MT/MT-SUPRO/0015550/27-6-2016
+
+				</td>
+
+			
+
+			</tr>
+
+		
+
+			<tr class="portlet-section-alternate results-row alt" >
+
+			
+
+				<td class="align-left col-1  first valign-middle" colspan="1"
+					
+						headers="azfb_col-1"
+					
+				>
+
+					<a href='https://www.impresainungiorno.gov.it/web/matera/comune/pratiche-presentate/t/F052?p_p_id=3_WAR_servizi_attiviportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_3_WAR_servizi_attiviportlet_jspPage=%2Fpratiche_presentate%2Fdettaglio_pratica.jsp&_3_WAR_servizi_attiviportlet_codicePratica=00430430777-24062016-1409&_3_WAR_servizi_attiviportlet_idSportello=4935&_3_WAR_servizi_attiviportlet_nomeSportello=MATERA&_3_WAR_servizi_attiviportlet_backurl=https%3A%2F%2Fwww.impresainungiorno.gov.it%2Fweb%2Fmatera%2Fcomune%2Fpratiche-presentate%2Ft%2FF052' title='00430430777-24062016-1409'><b>00430430777-24062016-...</b> </a>
+
+				</td>
+
+			
+
+				<td class="align-left col-2  valign-middle" colspan="1"
+					
+						headers="azfb_col-2"
+					
+				>
+
+					BOUTIQUE ANNA S.A.S. DI TOTA ANNA GRAZIA E CORAZZA CRISTINA & C.
+
+				</td>
+
+			
+
+				<td class="align-left col-3  last valign-middle" colspan="1"
+					
+						headers="azfb_col-3"
+					
+				>
+
+					REP_PROV_MT/MT-SUPRO/0015532/27-6-2016
+
+				</td>
+
+			
+
+			</tr>
+
+		
+
+			<tr class="portlet-section-body results-row" >
+
+			
+
+				<td class="align-left col-1  first valign-middle" colspan="1"
+					
+						headers="azfb_col-1"
+					
+				>
+
+					<a href='https://www.impresainungiorno.gov.it/web/matera/comune/pratiche-presentate/t/F052?p_p_id=3_WAR_servizi_attiviportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_3_WAR_servizi_attiviportlet_jspPage=%2Fpratiche_presentate%2Fdettaglio_pratica.jsp&_3_WAR_servizi_attiviportlet_codicePratica=MRZNSB84L46A669Q-27062016-1155&_3_WAR_servizi_attiviportlet_idSportello=4935&_3_WAR_servizi_attiviportlet_nomeSportello=MATERA&_3_WAR_servizi_attiviportlet_backurl=https%3A%2F%2Fwww.impresainungiorno.gov.it%2Fweb%2Fmatera%2Fcomune%2Fpratiche-presentate%2Ft%2FF052' title='MRZNSB84L46A669Q-27062016-1155'><b>MRZNSB84L46A669Q-2706...</b> </a>
+
+				</td>
+
+			
+
+				<td class="align-left col-2  valign-middle" colspan="1"
+					
+						headers="azfb_col-2"
+					
+				>
+
+					MARZOCCA ANNA SABATINA
+
+				</td>
+
+			
+
+				<td class="align-left col-3  last valign-middle" colspan="1"
+					
+						headers="azfb_col-3"
+					
+				>
+
+					REP_PROV_MT/MT-SUPRO/0015528/27-6-2016
+
+				</td>
+
+			
+
+			</tr>
+
+		
+
+			<tr class="portlet-section-alternate results-row alt" >
+
+			
+
+				<td class="align-left col-1  first valign-middle" colspan="1"
+					
+						headers="azfb_col-1"
+					
+				>
+
+					<a href='https://www.impresainungiorno.gov.it/web/matera/comune/pratiche-presentate/t/F052?p_p_id=3_WAR_servizi_attiviportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_3_WAR_servizi_attiviportlet_jspPage=%2Fpratiche_presentate%2Fdettaglio_pratica.jsp&_3_WAR_servizi_attiviportlet_codicePratica=01215940774-24062016-1807&_3_WAR_servizi_attiviportlet_idSportello=4935&_3_WAR_servizi_attiviportlet_nomeSportello=MATERA&_3_WAR_servizi_attiviportlet_backurl=https%3A%2F%2Fwww.impresainungiorno.gov.it%2Fweb%2Fmatera%2Fcomune%2Fpratiche-presentate%2Ft%2FF052' title='01215940774-24062016-1807'><b>01215940774-24062016-...</b> </a>
+
+				</td>
+
+			
+
+				<td class="align-left col-2  valign-middle" colspan="1"
+					
+						headers="azfb_col-2"
+					
+				>
+
+					PMG srl
+
+				</td>
+
+			
+
+				<td class="align-left col-3  last valign-middle" colspan="1"
+					
+						headers="azfb_col-3"
+					
+				>
+
+					REP_PROV_MT/MT-SUPRO/0015524/27-6-2016
+
+				</td>
+
+			
+
+			</tr>
+
+		
+
+			<tr class="portlet-section-body results-row" >
+
+			
+
+				<td class="align-left col-1  first valign-middle" colspan="1"
+					
+						headers="azfb_col-1"
+					
+				>
+
+					<a href='https://www.impresainungiorno.gov.it/web/matera/comune/pratiche-presentate/t/F052?p_p_id=3_WAR_servizi_attiviportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_3_WAR_servizi_attiviportlet_jspPage=%2Fpratiche_presentate%2Fdettaglio_pratica.jsp&_3_WAR_servizi_attiviportlet_codicePratica=00548920776-27062016-1124&_3_WAR_servizi_attiviportlet_idSportello=4935&_3_WAR_servizi_attiviportlet_nomeSportello=MATERA&_3_WAR_servizi_attiviportlet_backurl=https%3A%2F%2Fwww.impresainungiorno.gov.it%2Fweb%2Fmatera%2Fcomune%2Fpratiche-presentate%2Ft%2FF052' title='00548920776-27062016-1124'><b>00548920776-27062016-...</b> </a>
+
+				</td>
+
+			
+
+				<td class="align-left col-2  valign-middle" colspan="1"
+					
+						headers="azfb_col-2"
+					
+				>
+
+					SOC. GABRIELLA DI FELICE TROMBA - S.A.S.
+
+				</td>
+
+			
+
+				<td class="align-left col-3  last valign-middle" colspan="1"
+					
+						headers="azfb_col-3"
+					
+				>
+
+					REP_PROV_MT/MT-SUPRO/0015504/27-6-2016
+
+				</td>
+
+			
+
+			</tr>
+
+		
+
+			<tr class="portlet-section-alternate results-row alt" >
+
+			
+
+				<td class="align-left col-1  first valign-middle" colspan="1"
+					
+						headers="azfb_col-1"
+					
+				>
+
+					<a href='https://www.impresainungiorno.gov.it/web/matera/comune/pratiche-presentate/t/F052?p_p_id=3_WAR_servizi_attiviportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_3_WAR_servizi_attiviportlet_jspPage=%2Fpratiche_presentate%2Fdettaglio_pratica.jsp&_3_WAR_servizi_attiviportlet_codicePratica=01881340762-27062016-1058&_3_WAR_servizi_attiviportlet_idSportello=4935&_3_WAR_servizi_attiviportlet_nomeSportello=MATERA&_3_WAR_servizi_attiviportlet_backurl=https%3A%2F%2Fwww.impresainungiorno.gov.it%2Fweb%2Fmatera%2Fcomune%2Fpratiche-presentate%2Ft%2FF052' title='01881340762-27062016-1058'><b>01881340762-27062016-...</b> </a>
+
+				</td>
+
+			
+
+				<td class="align-left col-2  valign-middle" colspan="1"
+					
+						headers="azfb_col-2"
+					
+				>
+
+					SAMSARA SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA
+
+				</td>
+
+			
+
+				<td class="align-left col-3  last valign-middle" colspan="1"
+					
+						headers="azfb_col-3"
+					
+				>
+
+					REP_PROV_MT/MT-SUPRO/0015463/27-6-2016
+
+				</td>
+
+			
+
+			</tr>
+
+		
+
+			<tr class="portlet-section-body results-row" >
+
+			
+
+				<td class="align-left col-1  first valign-middle" colspan="1"
+					
+						headers="azfb_col-1"
+					
+				>
+
+					<a href='https://www.impresainungiorno.gov.it/web/matera/comune/pratiche-presentate/t/F052?p_p_id=3_WAR_servizi_attiviportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_3_WAR_servizi_attiviportlet_jspPage=%2Fpratiche_presentate%2Fdettaglio_pratica.jsp&_3_WAR_servizi_attiviportlet_codicePratica=00529500779-30052016-0838&_3_WAR_servizi_attiviportlet_idSportello=4935&_3_WAR_servizi_attiviportlet_nomeSportello=MATERA&_3_WAR_servizi_attiviportlet_backurl=https%3A%2F%2Fwww.impresainungiorno.gov.it%2Fweb%2Fmatera%2Fcomune%2Fpratiche-presentate%2Ft%2FF052' title='00529500779-30052016-0838'><b>00529500779-30052016-...</b> </a>
+
+				</td>
+
+			
+
+				<td class="align-left col-2  valign-middle" colspan="1"
+					
+						headers="azfb_col-2"
+					
+				>
+
+					LA STAMPERIA S.N.C. DI GAETANO & ROSALBA LIANTONIO
+
+				</td>
+
+			
+
+				<td class="align-left col-3  last valign-middle" colspan="1"
+					
+						headers="azfb_col-3"
+					
+				>
+
+					REP_PROV_MT/MT-SUPRO/0015462/27-6-2016
+
+				</td>
+
+			
+
+			</tr>
+
+		
+
+			<tr class="portlet-section-alternate results-row alt" >
+
+			
+
+				<td class="align-left col-1  first valign-middle" colspan="1"
+					
+						headers="azfb_col-1"
+					
+				>
+
+					<a href='https://www.impresainungiorno.gov.it/web/matera/comune/pratiche-presentate/t/F052?p_p_id=3_WAR_servizi_attiviportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_3_WAR_servizi_attiviportlet_jspPage=%2Fpratiche_presentate%2Fdettaglio_pratica.jsp&_3_WAR_servizi_attiviportlet_codicePratica=VLPSMN70M55F052M-27062016-1014&_3_WAR_servizi_attiviportlet_idSportello=4935&_3_WAR_servizi_attiviportlet_nomeSportello=MATERA&_3_WAR_servizi_attiviportlet_backurl=https%3A%2F%2Fwww.impresainungiorno.gov.it%2Fweb%2Fmatera%2Fcomune%2Fpratiche-presentate%2Ft%2FF052' title='VLPSMN70M55F052M-27062016-1014'><b>VLPSMN70M55F052M-2706...</b> </a>
+
+				</td>
+
+			
+
+				<td class="align-left col-2  valign-middle" colspan="1"
+					
+						headers="azfb_col-2"
+					
+				>
+
+					VOLPE SIMONA
+
+				</td>
+
+			
+
+				<td class="align-left col-3  last valign-middle" colspan="1"
+					
+						headers="azfb_col-3"
+					
+				>
+
+					REP_PROV_MT/MT-SUPRO/0015454/27-6-2016
+
+				</td>
+
+			
+
+			</tr>
+
+		
+
+			<tr class="portlet-section-body results-row" >
+
+			
+
+				<td class="align-left col-1  first valign-middle" colspan="1"
+					
+						headers="azfb_col-1"
+					
+				>
+
+					<a href='https://www.impresainungiorno.gov.it/web/matera/comune/pratiche-presentate/t/F052?p_p_id=3_WAR_servizi_attiviportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_3_WAR_servizi_attiviportlet_jspPage=%2Fpratiche_presentate%2Fdettaglio_pratica.jsp&_3_WAR_servizi_attiviportlet_codicePratica=SPDSRA94P58F052Y-26062016-1715&_3_WAR_servizi_attiviportlet_idSportello=4935&_3_WAR_servizi_attiviportlet_nomeSportello=MATERA&_3_WAR_servizi_attiviportlet_backurl=https%3A%2F%2Fwww.impresainungiorno.gov.it%2Fweb%2Fmatera%2Fcomune%2Fpratiche-presentate%2Ft%2FF052' title='SPDSRA94P58F052Y-26062016-1715'><b>SPDSRA94P58F052Y-2606...</b> </a>
+
+				</td>
+
+			
+
+				<td class="align-left col-2  valign-middle" colspan="1"
+					
+						headers="azfb_col-2"
+					
+				>
+
+					SPADA SARA
+
+				</td>
+
+			
+
+				<td class="align-left col-3  last valign-middle" colspan="1"
+					
+						headers="azfb_col-3"
+					
+				>
+
+					REP_PROV_MT/MT-SUPRO/0015397/26-6-2016
+
+				</td>
+
+			
+
+			</tr>
+
+		
+
+			<tr class="portlet-section-alternate results-row alt last" >
+
+			
+
+				<td class="align-left col-1  first valign-middle" colspan="1"
+					
+						headers="azfb_col-1"
+					
+				>
+
+					<a href='https://www.impresainungiorno.gov.it/web/matera/comune/pratiche-presentate/t/F052?p_p_id=3_WAR_servizi_attiviportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_3_WAR_servizi_attiviportlet_jspPage=%2Fpratiche_presentate%2Fdettaglio_pratica.jsp&_3_WAR_servizi_attiviportlet_codicePratica=SPDSFO92H58A048L-26062016-1246&_3_WAR_servizi_attiviportlet_idSportello=4935&_3_WAR_servizi_attiviportlet_nomeSportello=MATERA&_3_WAR_servizi_attiviportlet_backurl=https%3A%2F%2Fwww.impresainungiorno.gov.it%2Fweb%2Fmatera%2Fcomune%2Fpratiche-presentate%2Ft%2FF052' title='SPDSFO92H58A048L-26062016-1246'><b>SPDSFO92H58A048L-2606...</b> </a>
+
+				</td>
+
+			
+
+				<td class="align-left col-2  valign-middle" colspan="1"
+					
+						headers="azfb_col-2"
+					
+				>
+
+					SPADA SOFIA
+
+				</td>
+
+			
+
+				<td class="align-left col-3  last valign-middle" colspan="1"
+					
+						headers="azfb_col-3"
+					
+				>
+
+					REP_PROV_MT/MT-SUPRO/0015395/26-6-2016
+
+				</td>
+
+			
+
+			</tr>
+
+		
+
+		</table>
+	</div>
+
+	
+</div>
+
+
+
+
+	<input id="ovwwPrimaryKeys" name="ovwwPrimaryKeys" type="hidden" value="CNCVCN79C31F052I-17052016-1431,00430430777-24062016-1409,MRZNSB84L46A669Q-27062016-1155,01215940774-24062016-1807,00548920776-27062016-1124,01881340762-27062016-1058,00529500779-30052016-0838,VLPSMN70M55F052M-27062016-1014,SPDSRA94P58F052Y-26062016-1715,SPDSFO92H58A048L-26062016-1246" />
+
+	
+
+
+
+        <div class="search-export">
+			
+			  
+		    
+	        Esporta lista pratiche (ultimo mese) come  <a href="https://www.impresainungiorno.gov.it/web/matera/comune/pratiche-presentate/t/F052?p_auth=tNJ1u0V0&p_p_id=3_WAR_servizi_attiviportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_3_WAR_servizi_attiviportlet_cciaa=MT&_3_WAR_servizi_attiviportlet_javax.portlet.action=exportCSV">CSV</a> 
+		</div>
+			
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="taglib-page-iterator">
+
+
+
+	
+
+<div class="search-results">
+	
+		
+		
+		
+			Risultati 1 - 10 su 3.170.
+		
+		
+	
+</div>
+
+
+
+
+
+	<div class="search-pages">
+		
+			
+				<div class="delta-selector">
+					
+						
+							Articoli per Pagina
+
+							10
+						
+						
+					
+				</div>
+			
+
+			<div class="page-selector">
+				
+					
+					
+
+						
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="aui-field aui-field-select aui-field-menu">
+	<span class="aui-field-content">
+		
+			<label class="aui-field-label-inline-label" for="page">
+				Pagina
+
+				
+
+				
+					<span class="aui-helper-hidden-accessible">(Cambiando il valore di questo campo sarà ricaricata la pagina.)</span>
+				
+			</label>
+		
+
+		
+
+		<span class='aui-field-element '>
+			<select class="aui-field-input aui-field-input-select aui-field-input-menu"  id="_3_WAR_servizi_attiviportlet_page"  name="_3_WAR_servizi_attiviportlet_page"     onchange="_3_WAR_servizi_attiviportlet_curupdateCur(this);" >
+				
+
+				
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option   selected  value="1"  >
+
+
+	1
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="2"  >
+
+
+	2
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="3"  >
+
+
+	3
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="4"  >
+
+
+	4
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="5"  >
+
+
+	5
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="6"  >
+
+
+	6
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="7"  >
+
+
+	7
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="8"  >
+
+
+	8
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="9"  >
+
+
+	9
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="10"  >
+
+
+	10
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="11"  >
+
+
+	11
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="12"  >
+
+
+	12
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="13"  >
+
+
+	13
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="14"  >
+
+
+	14
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="15"  >
+
+
+	15
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="16"  >
+
+
+	16
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="17"  >
+
+
+	17
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="18"  >
+
+
+	18
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="19"  >
+
+
+	19
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="20"  >
+
+
+	20
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="21"  >
+
+
+	21
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="22"  >
+
+
+	22
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="23"  >
+
+
+	23
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="24"  >
+
+
+	24
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="25"  >
+
+
+	25
+</option>
+
+							
+
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<option     value="26"  >
+
+
+	26
+</option>
+
+							
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			</select>
+		</span>
+
+		
+			<span class="aui-suffix">
+				di 317
+			</span>
+		
+
+		
+	</span>
+</span>
+					
+				
+			</div>
+		
+
+		<div class="page-links">
+			
+				
+					
+					
+						<span class="first">
+					
+				
+
+				Primo
+
+				
+					
+					
+						</span>
+					
+				
+			
+
+			
+				
+				
+					<span class="previous">
+				
+			
+
+			
+				Precedente
+			
+
+			
+				
+				
+					</span>
+				
+			
+
+			
+				
+					<a class="next" href="https://www.impresainungiorno.gov.it/web/matera/comune/pratiche-presentate/t/F052?p_p_id=3_WAR_servizi_attiviportlet&amp;p_p_lifecycle=0&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-2&amp;p_p_col_pos=1&amp;p_p_col_count=3&amp;_3_WAR_servizi_attiviportlet_delta=10&amp;_3_WAR_servizi_attiviportlet_keywords=&amp;_3_WAR_servizi_attiviportlet_advancedSearch=false&amp;_3_WAR_servizi_attiviportlet_andOperator=true&amp;_3_WAR_servizi_attiviportlet_resetCur=false&amp;cur=2" target="_self">
+				
+				
+			
+
+			
+				
+					
+					
+						Successivo
+					
+				
+			
+
+			
+				
+					</a>
+				
+				
+			
+
+			
+				
+					
+						<a class="last" href="https://www.impresainungiorno.gov.it/web/matera/comune/pratiche-presentate/t/F052?p_p_id=3_WAR_servizi_attiviportlet&amp;p_p_lifecycle=0&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-2&amp;p_p_col_pos=1&amp;p_p_col_count=3&amp;_3_WAR_servizi_attiviportlet_delta=10&amp;_3_WAR_servizi_attiviportlet_keywords=&amp;_3_WAR_servizi_attiviportlet_advancedSearch=false&amp;_3_WAR_servizi_attiviportlet_andOperator=true&amp;_3_WAR_servizi_attiviportlet_resetCur=false&amp;cur=317" target="_self">
+					
+					
+				
+
+				Ultimo
+
+				
+					
+						</a>
+					
+					
+				
+			
+		</div>
+	</div>
+
+
+
+	</div>
+
+
+
+	
+
+
+
+		
+	</div>
+
+
+
+
+	
+	
+
+					
+				
+			
+			
+		
+	
+	
+
+
+
+	</div>
+
+				</div>
+
+				
+			
+		
+	
+
+				
+				
+			
+
+		
+
+	
+
+
+
+
+
+			
+		</div>
+	</div>
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div id="p_p_id_118_INSTANCE_iCH4odny0RUt_" class="portlet-boundary portlet-boundary_118_  portlet-static portlet-static-end portlet-borderless portlet-nested-portlets " >
+		<span id="p_118_INSTANCE_iCH4odny0RUt"></span>
+
+		<div class="portlet-body">
+
+
+
+	
+	
+	
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				<div class="portlet-borderless-container" style="">
+					
+
+					
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="columns-2" id="_118_INSTANCE_iCH4odny0RUt_main-content" role="main">
+			<div class="portlet-layout">
+			<div class="aui-w50 portlet-column portlet-column-first" id="_118_INSTANCE_iCH4odny0RUt_column-1">
+				<div class="portlet-dropzone portlet-column-content portlet-column-content-first" id="layout-column__118_INSTANCE_iCH4odny0RUt__column-1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div id="p_p_id_LinkPagina_WAR_link_paginaportlet_INSTANCE_DrYBtp7HeO4o_" class="portlet-boundary portlet-boundary_LinkPagina_WAR_link_paginaportlet_  portlet-static portlet-static-end portlet-borderless LinkPagina-portlet border" >
+		<span id="p_LinkPagina_WAR_link_paginaportlet_INSTANCE_DrYBtp7HeO4o"></span>
+
+		<div class="portlet-body">
+
+
+
+	
+	
+	
+	
+
+		
+
+			
+				
+					
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				<div class="portlet-borderless-container" style="">
+					
+
+					
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class="banner-portlet title-inside"
+	
+ 		style="height:90px"
+ 	
+ 	>
+
+	<a href="https://www.impresainungiorno.gov.it/web/matera/comune/pratiche-presentate/../../help-center/t/F052" target="_self" title='Vai a Help desk&lt;br/&gt;&lt;br/&gt;Configurazioni e dotazioni strumentali'>
+
+
+	
+
+
+		<img src="/documents/10192/10710/helpdesk.gif" alt='Vai a Help desk&lt;br/&gt;&lt;br/&gt;Configurazioni e dotazioni strumentali'/>
+		<br/>
+
+	
+		<span class="titolo-portlet" style="color:#006699;left:10px;width: 60%;">Help desk<br/><br/>Configurazioni e dotazioni strumentali</span>
+
+	</a>
+	
+</p>
+<p class="description">Le linea guida per i soggetti che devono ancora approntare i sistemi di gestione per gli adempimenti amministrativi on line.</p>
+
+
+
+
+	
+	
+
+					
+				
+			
+			
+		
+	
+	
+
+
+
+	</div>
+
+				</div>
+
+				
+			
+		
+	
+
+				
+				
+			
+
+		
+
+	
+
+
+
+
+
+			
+		</div>
+	</div>
+
+
+
+
+
+	
+	
+</div>
+			</div>
+
+			<div class="aui-w50 portlet-column portlet-column-last" id="_118_INSTANCE_iCH4odny0RUt_column-2">
+				<div class="portlet-dropzone portlet-column-content portlet-column-content-last" id="layout-column__118_INSTANCE_iCH4odny0RUt__column-2">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div id="p_p_id_LinkPagina_WAR_link_paginaportlet_INSTANCE_obVUGRIb51KS_" class="portlet-boundary portlet-boundary_LinkPagina_WAR_link_paginaportlet_  portlet-static portlet-static-end portlet-borderless LinkPagina-portlet border" >
+		<span id="p_LinkPagina_WAR_link_paginaportlet_INSTANCE_obVUGRIb51KS"></span>
+
+		<div class="portlet-body">
+
+
+
+	
+	
+	
+	
+
+		
+
+			
+				
+					
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				<div class="portlet-borderless-container" style="">
+					
+
+					
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class="banner-portlet title-inside"
+	
+ 		style="height:50px"
+ 	
+ 	>
+
+	<a href="/pa/help-center/t/F052" target="_self" title='Vai a Help Pubbliche Amministrazioni'>
+
+
+	
+
+
+		<img src="/documents/10192/12711/consulta-la-guida.gif" alt='Vai a Help Pubbliche Amministrazioni'/>
+		<br/>
+
+	
+		<span class="titolo-portlet" style="color:#006699;left:40px;width: 60%;">Help Pubbliche Amministrazioni</span>
+
+	</a>
+	
+</p>
+<p class="description">Accedi all'help center dedicato alla Pubbliche Amministrazioni <br/>
+<a href="/pa/help-center">Accedi all'help &#187;</a></p>
+
+
+
+
+	
+	
+
+					
+				
+			
+			
+		
+	
+	
+
+
+
+	</div>
+
+				</div>
+
+				
+			
+		
+	
+
+				
+				
+			
+
+		
+
+	
+
+
+
+
+
+			
+		</div>
+	</div>
+
+
+
+
+
+	
+	
+</div>
+			</div>
+		</div>
+	</div>
+
+
+	
+
+					
+				
+			
+			
+		
+	
+	
+
+
+
+	</div>
+
+				</div>
+
+				
+			
+		
+	
+
+
+	
+
+
+
+
+
+			
+		</div>
+	</div>
+
+
+
+
+
+	
+	
+</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+	
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div id="p_p_id_1_WAR_kaleodesignerportlet_" class="portlet-boundary portlet-boundary_1_WAR_kaleodesignerportlet_  portlet-static portlet-static-end kaleo-designer-portlet " >
+		<span id="p_1_WAR_kaleodesignerportlet"></span>
+
+		<div class="portlet-body">
+
+
+
+	
+	
+	
+	
+
+		
+
+			
+				
+				
+					
+
+
+
+
+				
+			
+
+		
+
+	
+
+
+
+
+
+			
+		</div>
+	</div>
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+<form action="#" id="hrefFm" method="post" name="hrefFm">
+	<span></span>
+</form>
+								
+			
+			
+					<footer id="footer" role="contentinfo">
+											<div id="loghi"> <a href="http://www.registroimprese.it/dama/comc/comc/IT/cu/" target="_blank" title="Comunica"> <img alt="Comunica" src="/documents/10192/10821/comunica.gif/f3ab6824-a9f1-4f25-a6aa-23459ea5d654?t=1355133140263" style="width: 97px; height: 35px;" /> </a> <a href="http://www.impresainungiorno.gov.it/impresa.gov" target="_blank" title="impresa.gov"> <img alt="impresa.gov" src="/documents/16166/16205/impresa.gov.gif/e68348af-7012-4e37-9e2e-bcd50d90b69c?t=1340091336000" /> </a> <a href="http://www.agid.gov.it/" target="_blank" title="Vai al sito di AgID - Agenzia per l'iItaliaDigitale"> <img alt="Vai al sito di AgID - Agenzia per l'iItaliaDigitale" src="/documents/10192/10821/digitPA.gif/719f4780-d117-4f52-9bf9-5075856fbdbd" /> </a> <a href="http://www.registroimprese.it" target="_blank" title="Registro Imprese"> <img alt="Registro Imprese" src="/documents/10192/10821/registroimprese.gif/91ff4ac9-9fbc-4dc3-887e-232962131e63?t=1355133450751" style="width: 118px; height: 30px;" /> </a> <a href="http://www.direttivaservizi.eu/" target="_blank" title="Direttiva Servizi"> <img alt="Direttiva Servizi" src="/documents/16166/16205/direttivaservizi.gif/3a46c981-dfed-40e6-9abe-eb42193a7f78?t=1340091336000" /> </a> <a href="http://www.sviluppoeconomico.gov.it/" target="_blank" title="Ministero dello Sviluppo Economico"> <img alt="Ministero dello Sviluppo Economico" src="/documents/16166/16205/mise.gif/45d54a98-c92f-4259-a394-e221949ce496?t=1340091336000" /> </a></div> <div id="sponsor"> <a href="/informativa-privacy" style="float: right; margin-top: 5px;" title="Informativa privacy"> Informativa privacy</a> <a class="contatti" href="/contatti">contatti</a> <a class="mappa" href="/mappa-del-sito">mappa del sito</a> <a class="w3c" href="#">w3c</a> &nbsp; <p style="padding-top: 20px; text-align: center; color: #999999;"> <span style="font-size:8px;">powered by <a href="http://www.infocamere.it" style="text-decoration: none; color: #999999;" target="_blank" title="InfoCamere">InfoCamere</a></span></p> </div> 
+		
+					</footer>
+			   </div>
+			</div>
+		</div>
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	</body>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+				<script src="/link_pagina-portlet/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=it_IT&amp;b=6110&amp;t=1466910229000" type="text/javascript"></script>
+
+	
+
+				<script src="/customize_breadcrumb-portlet/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=it_IT&amp;b=6110&amp;t=1466910224000" type="text/javascript"></script>
+
+	
+
+
+
+
+
+	
+
+	
+
+
+
+	
+
+
+	
+
+
+
+	
+
+
+
+	
+
+	
+
+
+
+	
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+// <![CDATA[
+
+	Liferay.Util.addInputFocus();
+
+	
+		Liferay.Portlet.runtimePortletIds = ['1_WAR_kaleodesignerportlet','103'];
+	
+
+	
+
+	
+		
+		
+
+			
+
+			
+		
+	
+
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+// <![CDATA[
+
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_103_',
+						portletId: '103',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d39035\x26p_p_id\x3d103\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3d\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d0\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fweb\x252Fmatera\x252Fcomune\x252Fpratiche-presentate\x252Ft\x252FF052'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_LinkPagina_WAR_link_paginaportlet_INSTANCE_DrYBtp7HeO4o_',
+						portletId: 'LinkPagina_WAR_link_paginaportlet_INSTANCE_DrYBtp7HeO4o',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d39035\x26p_p_id\x3dLinkPagina_WAR_link_paginaportlet_INSTANCE_DrYBtp7HeO4o\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3d_118_INSTANCE_iCH4odny0RUt__column-1\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fweb\x252Fmatera\x252Fcomune\x252Fpratiche-presentate\x252Ft\x252FF052'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_LinkPagina_WAR_link_paginaportlet_INSTANCE_obVUGRIb51KS_',
+						portletId: 'LinkPagina_WAR_link_paginaportlet_INSTANCE_obVUGRIb51KS',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d39035\x26p_p_id\x3dLinkPagina_WAR_link_paginaportlet_INSTANCE_obVUGRIb51KS\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3d_118_INSTANCE_iCH4odny0RUt__column-2\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fweb\x252Fmatera\x252Fcomune\x252Fpratiche-presentate\x252Ft\x252FF052'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 2,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_118_INSTANCE_iCH4odny0RUt_',
+						portletId: '118_INSTANCE_iCH4odny0RUt',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d39035\x26p_p_id\x3dLinkPagina_WAR_link_paginaportlet_INSTANCE_obVUGRIb51KS\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3d_118_INSTANCE_iCH4odny0RUt__column-2\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fweb\x252Fmatera\x252Fcomune\x252Fpratiche-presentate\x252Ft\x252FF052'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_1_WAR_customize_breadcrumbportlet_',
+						portletId: '1_WAR_customize_breadcrumbportlet',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d39035\x26p_p_id\x3d1_WAR_customize_breadcrumbportlet\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d3\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fweb\x252Fmatera\x252Fcomune\x252Fpratiche-presentate\x252Ft\x252FF052'
+					}
+				);
+			
+		Liferay.provide(
+			window,
+			'_3_WAR_servizi_attiviportlet_curupdateCur',
+			function(box) {
+				var A = AUI();
+
+				var cur = A.one(box).val();
+
+				if (true) {
+					var href = "https://www.impresainungiorno.gov.it/web/matera/comune/pratiche-presentate/t/F052?p_p_id=3_WAR_servizi_attiviportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_3_WAR_servizi_attiviportlet_delta=10&_3_WAR_servizi_attiviportlet_keywords=&_3_WAR_servizi_attiviportlet_advancedSearch=false&_3_WAR_servizi_attiviportlet_andOperator=true&_3_WAR_servizi_attiviportlet_resetCur=false&_3_WAR_servizi_attiviportlet_cur=" + cur + "";
+
+					location.href = href;
+				}
+				else {
+					document._3_WAR_servizi_attiviportlet_fm.cur.value = cur;
+
+					;
+				}
+			},
+			['aui-base']
+		);
+
+		Liferay.provide(
+			window,
+			'_3_WAR_servizi_attiviportlet_deltaupdateDelta',
+			function(box) {
+				var A = AUI();
+
+				var delta = A.one(box).val();
+
+				if (true) {
+					var href = "https://www.impresainungiorno.gov.it/web/matera/comune/pratiche-presentate/t/F052?p_p_id=3_WAR_servizi_attiviportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=3&_3_WAR_servizi_attiviportlet_keywords=&_3_WAR_servizi_attiviportlet_advancedSearch=false&_3_WAR_servizi_attiviportlet_andOperator=true&_3_WAR_servizi_attiviportlet_resetCur=false&_3_WAR_servizi_attiviportlet_delta=" + delta + "";
+
+					location.href = href;
+				}
+				else {
+					document._3_WAR_servizi_attiviportlet_fm.delta.value = delta;
+
+					;
+				}
+			},
+			['aui-base']
+		);
+	
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 1,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_3_WAR_servizi_attiviportlet_',
+						portletId: '3_WAR_servizi_attiviportlet',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d39035\x26p_p_id\x3d3_WAR_servizi_attiviportlet\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d1\x26p_p_col_count\x3d3\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fweb\x252Fmatera\x252Fcomune\x252Fpratiche-presentate\x252Ft\x252FF052'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 2,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_LinkPagina_WAR_link_paginaportlet_INSTANCE_TdbxHyz6vnGc_',
+						portletId: 'LinkPagina_WAR_link_paginaportlet_INSTANCE_TdbxHyz6vnGc',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d39035\x26p_p_id\x3dLinkPagina_WAR_link_paginaportlet_INSTANCE_TdbxHyz6vnGc\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-1\x26p_p_col_pos\x3d2\x26p_p_col_count\x3d3\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fweb\x252Fmatera\x252Fcomune\x252Fpratiche-presentate\x252Ft\x252FF052'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 1,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_LinkPagina_WAR_link_paginaportlet_INSTANCE_eOEyeqd1oj2k_',
+						portletId: 'LinkPagina_WAR_link_paginaportlet_INSTANCE_eOEyeqd1oj2k',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d39035\x26p_p_id\x3dLinkPagina_WAR_link_paginaportlet_INSTANCE_eOEyeqd1oj2k\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-1\x26p_p_col_pos\x3d1\x26p_p_col_count\x3d3\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fweb\x252Fmatera\x252Fcomune\x252Fpratiche-presentate\x252Ft\x252FF052'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_LinkPagina_WAR_link_paginaportlet_INSTANCE_wdw51TFDUYOJ_',
+						portletId: 'LinkPagina_WAR_link_paginaportlet_INSTANCE_wdw51TFDUYOJ',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d39035\x26p_p_id\x3dLinkPagina_WAR_link_paginaportlet_INSTANCE_wdw51TFDUYOJ\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-1\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d3\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fweb\x252Fmatera\x252Fcomune\x252Fpratiche-presentate\x252Ft\x252FF052'
+					}
+				);
+			
+	Liferay.provide(
+		Liferay.Util,
+		'openKaleoDesignerPortlet',
+		function(config) {
+			var A = AUI();
+
+			var kaleoURL = Liferay.PortletURL.createRenderURL();
+
+			kaleoURL.setParameter('availableFields', config.availableFields);
+			kaleoURL.setParameter('availablePropertyModels', config.availablePropertyModels);
+			kaleoURL.setParameter('ddmStructureId', config.ddmStructureId);
+			kaleoURL.setParameter('draftVersion', config.draftVersion);
+			kaleoURL.setParameter('kaleoProcessId', config.kaleoProcessId);
+			kaleoURL.setParameter('name', config.name);
+			kaleoURL.setParameter('openerWindowName', config.openerWindowName);
+			kaleoURL.setParameter('portletResourceNamespace', config.portletResourceNamespace);
+			kaleoURL.setParameter('propertiesSaveCallback', config.propertiesSaveCallback);
+			kaleoURL.setParameter('saveCallback', config.saveCallback);
+			kaleoURL.setParameter('uiScope', config.uiScope);
+			kaleoURL.setParameter('version', config.version);
+
+			kaleoURL.setPortletId('2_WAR_kaleodesignerportlet');
+			kaleoURL.setWindowState('pop_up');
+
+			config.uri = kaleoURL.toString();
+
+			var dialogConfig = config.dialog;
+
+			if (!dialogConfig) {
+				var region = A.one(Liferay.Util.getOpener()).get('region');
+
+				dialogConfig = {
+					modal: true,
+					title: config.name,
+					width: region.width * 0.85
+				};
+
+				config.dialog = dialogConfig;
+			}
+
+			if (!('align' in dialogConfig)) {
+				dialogConfig.align = Liferay.Util.Window.ALIGN_CENTER;
+			}
+
+			var dialogIframeConfig = config.dialogIframe;
+
+			if (!dialogIframeConfig) {
+				dialogIframeConfig = {
+					closeOnEscape: false
+				};
+
+				config.dialogIframe = dialogIframeConfig;
+			}
+
+			Liferay.Util.openWindow(config);
+		},
+		['liferay-portlet-url']
+	);
+
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_1_WAR_kaleodesignerportlet_',
+						portletId: '1_WAR_kaleodesignerportlet',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d39035\x26p_p_id\x3d1_WAR_kaleodesignerportlet\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3d\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d0\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fweb\x252Fmatera\x252Fcomune\x252Fpratiche-presentate\x252Ft\x252FF052'
+					}
+				);
+			AUI().use('aui-base', 'liferay-menu', 'liferay-notice', 'liferay-poller', 'liferay-search-container', function(A) {(function() {
+		new Liferay.SearchContainer(
+			{
+				classNameHover: 'hover',
+				hover: true,
+				id: 'ovww',
+				rowClassNameAlternate: 'portlet-section-alternate',
+				rowClassNameAlternateHover: 'portlet-section-alternate-hover',
+				rowClassNameBody: 'portlet-section-body',
+				rowClassNameBodyHover: 'portlet-section-body'
+			}
+		).render();
+	})();(function() {
+	Liferay.Util.addInputType();
+
+	Liferay.Portlet.ready(
+		function(portletId, node) {
+			Liferay.Util.addInputType(node);
+		}
+	);
+})();(function() {
+	new Liferay.Menu();
+
+	var liferayNotices = Liferay.Data.notices;
+
+	for (var i = 1; i < liferayNotices.length; i++) {
+		new Liferay.Notice(liferayNotices[i]);
+	}
+
+	
+})();});
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+<script src="https://www.impresainungiorno.gov.it/suap-theme/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=it_IT&amp;b=6110&amp;t=1424862511000" type="text/javascript"></script>
+
+
+
+	
+
+	
+
+	<script type="text/javascript">
+		// <![CDATA[
+			
+
+			
+		// ]]>
+	</script>
+
+
+
+
+
+
+</html>
+
