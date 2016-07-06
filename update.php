@@ -1,8 +1,8 @@
 <?php
-$city="matera"; //inserire città in minuscolo
-$id="F052"; //inserire codice di impresainungiorno. di solito è il CAP
-$path="/usr/www/piersoft/suapmatera/db/falairnew.txt";
-$pathcsv="/usr/www/piersoft/suapmatera/db/export.csv";
+$city="matera"; //inserire provincia in minuscolo
+$id="F052"; //inserire codice di impresainungiorno. di solito è il CAP della città
+$path="/usr/www/piersoft/suapmatera/db/falairnew.txt"; // inserire path dove il file falairnew.txt deve essere scrivibile
+$pathcsv="/usr/www/piersoft/suapmatera/db/export.csv"; // inserire path dove il file export.csv deve essere scrivibile
 exec('curl -v -c cookies.txt "https://www.impresainungiorno.gov.it" ');
 
 exec('curl -v -b cookies.txt -L "https://www.impresainungiorno.gov.it/web/'.$city.'/comune/pratiche-presentate/t/'.$id.'" -H "Host: www.impresainungiorno.gov.it" -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" -H "Accept: text/csv,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8" -H "Accept-Language: it-IT,it;q=0.8,en-US;q=0.6,en;q=0.4,cs;q=0.2" -H "Upgrade-Insecure-Requests: 1" -H "Accept-Encoding: gzip, deflate, sdch, br" --compressed -H "Referer: https://www.impresainungiorno.gov.it/web/'.$city.'/comune/pratiche-presentate/t/'.$id.'" -H "Connection: keep-alive" > '.$path.'');
